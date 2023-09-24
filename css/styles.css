@@ -120,7 +120,7 @@ flex-shrink: 0;
   font-style: normal;
   font-weight: 700;
   line-height: 107.143%; 
-  letter-spacing: 0.07em;
+  letter-spacing: 0.02em;
   line-height: 1.07;
   text-align: center;
 }
@@ -282,11 +282,7 @@ flex-shrink: 0;
   padding: 188px 0;                                     
 }
 
-.container {
-    margin: 0 auto;
-  padding: 0 15px;
-  width: 1158px;
-}
+
 
 .hero-flex-title {
 display: flex;
@@ -400,7 +396,6 @@ display: flex;
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
-  padding: 24px 76px 24px 156px;
 height: 24px;
 align-items: center;
 flex-shrink: 0;
