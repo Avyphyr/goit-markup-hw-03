@@ -227,12 +227,13 @@ img {
 section {
   padding: 120px;
 }
-/* Formalization header*/
+/*header*/
 
 
 
 .header {
-  display: inline-flex;
+  
+  display: flex;
 align-items: center;
 flex-shrink: 0;
   border-bottom: 1px solid #e7e9fc;
@@ -257,8 +258,6 @@ flex-shrink: 0;
 }
 
 .logo {
-  padding: 24px 76px 24px 156px;
-  display: inline-flex;
   margin-right: 76px;
 }
 
@@ -305,7 +304,7 @@ display: flex;
   cursor: pointer;
   margin: 48px auto 0;
 }
-/* Formalization section 2*/
+/* section 2*/
 
 .proficiencies-flex {
   padding: 120px 0px;
@@ -328,7 +327,7 @@ display: flex;
 
 
 
-/* Formalization section 3*/
+/*section 3*/
 
 .team-section {
   padding: 120px 0;
@@ -366,7 +365,7 @@ display: flex;
   text-align: center;
 }
 
-/* formalization section 4 */
+/* section 4 */
 .portfolio-section {
   padding: 120px 0;
   display: flex;
@@ -392,7 +391,7 @@ display: flex;
 
 
 
-/* Formalization footer*/
+/*footer*/
 
 .footer-flex {
   padding: 100px 0;                                                 
